@@ -16,7 +16,7 @@ function calcular() {
   let quantidadeBebidas = bebidasPorPessoa(duracao) * adultos + (bebidasPorPessoa(duracao) / 2 * criancas);
 
   resultado.innerHTML = `<p>${quantidadeCarne / 1000} kg de Carne</p>`
-  resultado.innerHTML += `<p>${Math.ceil(quantidadeCerveja / 355)} latas de Cerveja</p>`
+  resultado.innerHTML += `<p>${Math.ceil(quantidadeCerveja / 355)} latas de 355ml de Cerveja</p>`
   resultado.innerHTML += `<p>${Math.ceil(quantidadeBebidas / 2000)} garrafas de 2 litros de Bebidas</p>`
 }
 
