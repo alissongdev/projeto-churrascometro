@@ -8,3 +8,11 @@ Calcule a quantidade certa de carne, cerveja e outras bebidas para o seu churras
 2. Cada pessoa em um churrasco consome, em média, 1.2L de cerveja (se o evento durar mais de 6 horas, a média de cerveja consumida por pessoa passa a ser 2L);
 3. Cada pessoa em um churrasco consome, em média, 1L de refrigerante/água (se o evento durar mais de 6 horas, a média de refrigerante/água consumida por pessoa passa a ser 1.5L);
 4. Crianças consomem pela metade dos valores apresentados (e não consomem cerveja).
+
+## Features futuras
+
+1. Mais tipos de recursos (diferentes carnes, bebidas etc.);
+2. Propor playlist baseada nos gostos dos convidados;
+3. Calcular preço médio e final dos recursos;
+4. Alimentos alternativos, como sorvetes;
+5. Consumo de carvão.
